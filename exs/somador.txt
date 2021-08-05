@@ -1,4 +1,0 @@
-voce= input ("qual seu nome? ")
-comeu= input ("quem deseja trolar? ")
-
-print (voce, "comeu o toba de", comeu)
